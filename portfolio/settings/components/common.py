@@ -163,4 +163,3 @@ else:
     # TODO
     pass
 
-ALLOWED_HOSTS = ['personportfolio.herokuapp.com']
